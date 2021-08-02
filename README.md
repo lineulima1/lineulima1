@@ -4,7 +4,7 @@
 <h3> I’m currently learning React </h3>
  <div>
   <h2> React me: </h2>
-  <a href="https:/www.linkedin.com/in/lineulima1" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https:/www.linkedin.com/in/lineulima1"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   <br>
  
